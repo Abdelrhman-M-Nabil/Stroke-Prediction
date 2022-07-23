@@ -12,7 +12,7 @@ This is For [InClass Prediction dataset (data)](https://www.kaggle.com/datasets/
 
 
 ## File descriptions
-- synth_dataset.csv - the training-testing dataset.
+- synth_dataset.csv - the training-testing set.
 
 ---
 
