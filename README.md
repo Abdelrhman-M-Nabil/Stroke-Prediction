@@ -1,6 +1,6 @@
 # Stroke Prediction
 
-This is For [InClass Prediction dataset (data)](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+This is For [InClass Prediction dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ---
 
